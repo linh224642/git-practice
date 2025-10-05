@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là Nguyen Quang Linh, MSSV 224642.
+Giới thiệu: Tôi là Quang Linh - nhánh main
